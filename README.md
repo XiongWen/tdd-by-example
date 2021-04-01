@@ -1,6 +1,6 @@
 # Test Driven Development By Example
 
-This repository is a Test Driven Development exercise for the Udemy course [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
+This repository is a Test Driven Development exercise following the Udemy course [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
 
 Examples provided have been inspired by Kent Beck's examples in his book [Test-Driven Development By Example](https://amzn.to/2DTP58p)
 
