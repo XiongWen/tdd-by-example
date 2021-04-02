@@ -12,20 +12,15 @@
     <name>tdd-by-example</name>
     <description>Test Driven Development By Example</description>
 
-    <organization>
-        <name>Spring Framework Guru</name>
-        <url>https://springframework.guru/</url>
-    </organization>
-
     <developers>
         <developer>
-            <id>jt</id>
-            <name>John Thompson</name>
-            <email>john@springframework.guru</email>
+            <id>sw</id>
+            <name>Shaun Wen</name>
+            <email>xw926@uowmail.edu.au</email>
         </developer>
     </developers>
 
-    <inceptionYear>2018</inceptionYear>
+    <inceptionYear>2021</inceptionYear>
 
     <licenses>
         <license>
